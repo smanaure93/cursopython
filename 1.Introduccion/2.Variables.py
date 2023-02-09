@@ -1,12 +1,12 @@
-nombre = "Coto Walter"
-numero = 89
-flotante = 3.14
+name = "Sócrates Manaure"
+number = 30
+float = 3.14
 
-print(type(nombre))
-print(nombre)
+print(type(name))
+print(name)
 
-print(type(numero))
-print(numero)
+print(type(number))
+print(number)
 
-print(type(flotante))
-print(flotante)
+print(type(float))
+print(float)
