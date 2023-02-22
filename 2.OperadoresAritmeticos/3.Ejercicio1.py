@@ -1,3 +1,3 @@
-calculo = pow(((3+2) / (5*2)) , 2)
+calc = pow(((3+2) / (2*5)), 2)
 
-print(calculo)
+print("El resultado es: ", calc)
